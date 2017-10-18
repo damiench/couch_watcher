@@ -1,0 +1,15 @@
+{
+	"buckets": {
+		"dumps": ""
+	},
+	"couch": {
+		"host": "localhost",
+		"protocol": "http",
+		"port": 5984,
+		"auth": {
+			"enabled": false,
+			"username": "",
+			"password": ""
+		}
+	}
+}
